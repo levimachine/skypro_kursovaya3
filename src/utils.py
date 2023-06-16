@@ -55,7 +55,6 @@ def main(completed_list):
         'description': None,
         'from': None,
         'to': None
-
     }
     # бегу по списку операций циклом
     for operation in completed_list:
